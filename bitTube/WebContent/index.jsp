@@ -39,7 +39,7 @@
             aria-controls="offcanvasWithBothOptions"><i class="fa-solid fa-bars"></i></button>
         </div>
         <div class="col-1">
-          <img src="${pageContext.request.contextPath}/resources/img/img-logo.jpg" class="logo" alt="" id="logo-bittube">
+          <img src="${pageContext.request.contextPath}/resources/img/img-2.png" class="logo" alt="" id="logo-bittube">
         </div>
         <div class="col-8">
           <div class="search-box">
