@@ -36,6 +36,7 @@
   
 
     <!-- [START] - Main -->
+    
     <main class="row">
       <div class="col-12" style="background-color: white;">
       
@@ -46,8 +47,10 @@
         <!-- [START] Content -->
         <jsp:include page="home/content.jsp"/>
         <!-- [END] Content -->
+        
       </div>
     </main>
+    
     <!-- [END] - Main -->
 
     <!--  START script -->
